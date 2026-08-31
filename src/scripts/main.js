@@ -1,1 +1,1 @@
-console.log('ola mudno')
+AOS.init();
